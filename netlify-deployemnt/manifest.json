@@ -1,0 +1,22 @@
+{
+  "name": "Nekta - Fresh Groceries",
+  "short_name": "Nekta",
+  "description": "Fresh groceries delivered in 15-20 minutes in Kothagudem. Order vegetables, fruits, dairy products and daily essentials online.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#10B981",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/imgLOGO.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/imgLOGO.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
